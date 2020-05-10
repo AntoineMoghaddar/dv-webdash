@@ -4,8 +4,7 @@ class Footer extends Component {
     render() {
         return (
             <footer>
-footer
-            </footer>
+Made by Antoine Moghaddar            </footer>
         );
     }
 }
