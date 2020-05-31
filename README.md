@@ -1,3 +1,40 @@
+This project is property of Antoine Moghaddar, < DigitalMoose >
+For information about this project, please send an email to hi@antoinemoghaddar.com
+
+##General Assignment Details
+Project: Petronas F1 - Final Assignment<br />
+Course: Data Visualisations<br />
+Module 8, From the sources to the senses<br />
+University of Twente, 2019/2020<br />
+
+####How to Start up project? 
+
+######General information:
+Before starting to work on this project make sure the following items are installed and updated:
+- NodeJs - {npm}
+- One workable kind of terminal - Prefered terminal windows: Cygwin
+- Gulp, find more information on how to install on [gulp's official webpage](https://gulpjs.com/) 
+- React-create, find more information about installation on [react's official webpage](https://reactjs.org/)
+- prefered Git Gui of Git bash, if in need for advise or help, Please ask Antoine.
+#####How to start project?
+- Run Terminal/Cygwin/Command Line,
+- Direct to corresponding folder of project,
+- Within this project folder, run `npm install` to install and update all libraries and dependencies
+- Run `npm start` 
+<br /><br />
+- Simultanuously open another terminal window,
+- direct to corresponding folder of project,
+- within this project folder, run 'gulp'
+<br /><br />
+Open localhost:3000
+Here you will find the backbone of this application.
+
+*Please make sure to first discuss with Antoine Moghaddar before pushing updates to git*<br />
+Cheers,
+Antoine
+
+
+#Project Details
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
